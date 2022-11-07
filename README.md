@@ -10,5 +10,11 @@ This site both solves the issue of forgetting important aspects of the pre-work 
 
 In building this project, I learnt about the correct git workflow and the basics of HTML, CSS and JavaScript.
 
+## Installation
+N/A
+
+## Usage
+View the developer console to get a suggestion as to what to learn next.
+
 ## Licence
 Licensed under the MIT license.
